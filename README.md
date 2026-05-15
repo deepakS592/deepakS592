@@ -65,6 +65,6 @@ To become a skilled Cloud Engineer and work on modern cloud infrastructure, auto
 
 ## 📊 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakS592&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=deepakS592&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakS592&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakS592&layout=compact&theme=tokyonight" />
