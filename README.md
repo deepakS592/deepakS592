@@ -6,7 +6,14 @@
 🐧 Learning Linux, Networking & AWS  
 💻 Passionate about Cloud Computing and Infrastructure  
 🚀 Exploring DevOps and Cloud Technologies  
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 ---
 
 ## 🛠️ Technical Skills
@@ -54,3 +61,10 @@ To become a skilled Cloud Engineer and work on modern cloud infrastructure, auto
 📧 Email: suthardeepakkar@outlook.com
 
 🌍 Location: Silvassa, India
+---
+
+## 📊 GitHub Stats
+
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakS592&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakS592&layout=compact&theme=tokyonight)
