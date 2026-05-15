@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Deepak Suthar 👋
 
-<!--
-**deepakS592/deepakS592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Aspiring Cloud Engineer
 
-Here are some ideas to get you started:
+🎓 BSc Computer Science Student  
+🐧 Learning Linux, Networking & AWS  
+💻 Passionate about Cloud Computing and Infrastructure  
+🚀 Exploring DevOps and Cloud Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- Linux Basics
+- Networking Fundamentals
+- Python
+- SQL
+- HTML
+- PHP
+- Database Management Systems
+- Cloud Computing Fundamentals
+
+---
+
+## 📂 Projects
+
+### 🔹 HR Management System
+- Developed an HR management system using PHP and SQL
+- Implemented employee record and database management features
+
+### 🔹 Sound Sensitive Plant using Arduino
+- Built an Arduino-based sound responsive system
+- Worked with sensors and hardware integration
+
+---
+
+## 📚 Currently Learning
+
+- AWS Cloud Practitioner
+- Linux Administration
+- Networking Concepts
+- Cloud Infrastructure Basics
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Cloud Engineer and work on modern cloud infrastructure, automation, and scalable systems.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: suthardeepakkar@outlook.com
+
+🌍 Location: Silvassa, India
